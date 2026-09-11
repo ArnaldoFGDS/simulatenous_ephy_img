@@ -1,0 +1,3 @@
+[submodule "ensemble_analysis_YS"]
+	path = ensemble_analysis_YS
+	url = https://github.com/shymkivy/ensemble_analysis_YS.git
